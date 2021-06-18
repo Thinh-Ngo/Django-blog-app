@@ -9,5 +9,7 @@ BLOG APP contain:
  
 To run app:
   $ pip install -r requirements
+  <br>
   $ cd codebase
+  <br>
   $ python manage.py runserver
