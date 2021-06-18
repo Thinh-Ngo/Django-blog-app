@@ -7,7 +7,7 @@ BLOG APP contain:
   Config deplay with Heroku.
   
  
-To run app:
+To run app: <br>
   $ pip install -r requirements
   <br>
   $ cd codebase
